@@ -1,2 +1,2 @@
-# INSTAGRAM
-INSTABOT
+# instaBot
+instagramBot
